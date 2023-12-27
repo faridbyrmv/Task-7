@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\bin\Debug\net6.0\ConsoleAppTask7.exe
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\bin\Debug\net6.0\ConsoleAppTask7.deps.json
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\bin\Debug\net6.0\ConsoleAppTask7.runtimeconfig.json
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\bin\Debug\net6.0\ConsoleAppTask7.dll
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\bin\Debug\net6.0\ConsoleAppTask7.pdb
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\obj\Debug\net6.0\ConsoleAppTask7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\obj\Debug\net6.0\ConsoleAppTask7.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\obj\Debug\net6.0\ConsoleAppTask7.AssemblyInfo.cs
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\obj\Debug\net6.0\ConsoleAppTask7.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\obj\Debug\net6.0\ConsoleAppTask7.dll
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\obj\Debug\net6.0\refint\ConsoleAppTask7.dll
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\obj\Debug\net6.0\ConsoleAppTask7.pdb
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\obj\Debug\net6.0\ConsoleAppTask7.genruntimeconfig.cache
+C:\Users\PC\Desktop\7\ConsoleAppTask7\ConsoleAppTask7\obj\Debug\net6.0\ref\ConsoleAppTask7.dll
